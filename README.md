@@ -9,4 +9,4 @@
 - [1. Two sum](/src/hash/1.two-sum)
 
 ### Divide & Conquer
-- [315. Count of smaller numbers after self](/src/hash/315.count-smaller-numbers-after-self)
+- [315. Count of smaller numbers after self](/src/divide-conquer/315.count-smaller-numbers-after-self)
