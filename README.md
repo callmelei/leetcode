@@ -1,7 +1,6 @@
 # LeetCode Topics Classification
 
-## Reference
-- [yuanguangxin/LeetCode](https://github.com/yuanguangxin/LeetCode)
+*Reference*: [yuanguangxin/LeetCode](https://github.com/yuanguangxin/LeetCode)
 
 ## Topics
 
