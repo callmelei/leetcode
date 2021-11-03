@@ -8,6 +8,9 @@
 - [1. Two sum](/src/hash/1.two-sum)
 - [387. First unique character in a string](/src/hash/387.first-unique-character-in-a-string)
 
+### LinkedList (Fast/Slow Pointer)
+- [19. Remove nth node from end of list](/src/linkedlist/19.remove-nth-node-from-end-of-list)
+
 ### Backtracking
 - [39. Combination sum](/src/backtrack/39.combination-sum)
 - [40. Combination sum II](/src/backtrack/40.combination-sum-ii)
