@@ -15,8 +15,8 @@
 - [206. Reverse linked list](/src/linkedlist/206.reverse-linked-list)
 
 ### Sliding Window (Two Pointers)
-- [11. Container with most water](/src/linkedlist/11.container-with-most-water)
-- [15. 3Sum](/src/linkedlist/15.3-sum)
+- [11. Container with most water](/src/slidingwindow/11.container-with-most-water)
+- [15. 3Sum](/src/slidingwindow/15.3-sum)
 - [26. Remove duplicates from sorted array](/src/slidingwindow/26.remove-duplicates-from-sorted-array)
 - [42. Trapping rain water](/src/slidingwindow/42.trapping-rain-water)
 - [121. Best time to buy and sell stock](/src/slidingwindow/121.best-time-to-buy-and-sell-stock)
