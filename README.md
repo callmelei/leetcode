@@ -9,7 +9,12 @@
 - [387. First unique character in a string](/src/hash/387.first-unique-character-in-a-string)
 
 ### LinkedList (Fast/Slow Pointer)
+- [11. Container with most water](/src/linkedlist/11.container-with-most-water)
+- [15. 3-sum](/src/linkedlist/15.3-sum)
 - [19. Remove nth node from end of list](/src/linkedlist/19.remove-nth-node-from-end-of-list)
+- [61. Rotate list](/src/linkedlist/61.rotate-list)
+- [141. Linked list cycle](/src/linkedlist/141.linked-list-cycle)
+- [206. Reverse linked list](/src/linkedlist/206.reverse-linked-list)
 
 ### Backtracking
 - [39. Combination sum](/src/backtrack/39.combination-sum)
