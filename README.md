@@ -14,9 +14,22 @@
 - [141. Linked list cycle](/src/linkedlist/141.linked-list-cycle)
 - [206. Reverse linked list](/src/linkedlist/206.reverse-linked-list)
 
+### String Operation
+- [6. Zigzag conversion](/src/string/6.zigzag-conversion)
+- [14. Longest common prefix](/src/string/14.longest-common-prefix)
+- [763. Partition labels](/src/string/763.partition-labels)
+
+### Number Operation
+
+### Array Operation
+- [56. Merge Intervals](/src/array/56.merge-intervals)
+
+
 ### Sliding Window (Two Pointers)
+- [3. Longest substring without repeating characters](/src/slidingwindow/3.longest-substring-without-repeating-characters)
 - [11. Container with most water](/src/slidingwindow/11.container-with-most-water)
 - [15. 3Sum](/src/slidingwindow/15.3-sum)
+- [16. 3Sum closest](/src/slidingwindow/16.3-sum-closest)
 - [26. Remove duplicates from sorted array](/src/slidingwindow/26.remove-duplicates-from-sorted-array)
 - [42. Trapping rain water](/src/slidingwindow/42.trapping-rain-water)
 - [121. Best time to buy and sell stock](/src/slidingwindow/121.best-time-to-buy-and-sell-stock)
