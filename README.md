@@ -20,6 +20,12 @@
 - [763. Partition labels](/src/string/763.partition-labels)
 
 ### Number Operation
+- [7. Reverse Integer](/src/number/7.reverse-integer)
+- [8. String to Integer (atoi)](/src/number/8.string-to-integer-atoi)
+- [9. Palindrome number](/src/number/9.palindrome-number)
+- [43. Multiply strings](/src/number/43.multiply-strings)
+- [172. Factorial trailing zeros](/src/number/172.factorial-trailing-zeros)
+- [258. Add digits](/src/number/258.add-digits)
 
 ### Array Operation
 - [56. Merge Intervals](/src/array/56.merge-intervals)
