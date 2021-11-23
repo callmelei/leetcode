@@ -28,7 +28,10 @@
 - [258. Add digits](/src/number/258.add-digits)
 
 ### Array Operation
+- [54. Spiral matrix](/src/array/54.sprial-matrix)
 - [56. Merge Intervals](/src/array/56.merge-intervals)
+- [73. Set matrix zeros](/src/array/73.set-matrix-zeros)
+- [384. Shuffle an array](/src/array/384.shuffle-an-array)
 
 
 ### Sliding Window (Two Pointers)
