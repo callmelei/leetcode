@@ -55,3 +55,14 @@
 ### Divide & Conquer
 - [315. Count of smaller numbers after self](/src/divide-conquer/315.count-smaller-numbers-after-self)
 
+### Stack
+- [20. Valid Parentheses](/src/stack/20.valid-parentheses)
+- [155. Min stack](/src/stack/155.min-stack)
+- [224. Basic calculator](/src/stack/224.basic-calculator)
+- [232. Implement queue using stacks](/src/stack/232.implement-queue-using-stacks)
+- [316. Remove duplicate letters](/src/stack/316.remove-duplicate-letters)
+
+### Heap
+- [215. Kth largest element in an array](/src/heap/215.kth-largest-element-in-an-array)
+- [347. Top k frequent elements](/src/heap/347.top-k-frequent-elements)
+
