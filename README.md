@@ -8,6 +8,14 @@
 - [1. Two sum](/src/hash/1.two-sum)
 - [387. First unique character in a string](/src/hash/387.first-unique-character-in-a-string)
 
+### Recursion
+- [21. Merge two sorted lists](/src/recursion/21.merge-two-sorted-lists)
+- [101. Symmetric tree](/src/recursion/101.symmetric-tree)
+- [104. Maximum depth of binary tree](/src/recursion/104.maximum-depth-of-binary-tree)
+- [226. Invert binary tree](/src/recursion/226.invert-binary-tree)
+- [236. Lowest common ancestor of a binary tree](/src/recursion/236.lowest-common-ancestor-of-a-binary-tree)
+- [1325. Delete leaves with a given value](/src/recursion/1325.delete-leaves-with-a-given-value)
+
 ### LinkedList (Fast/Slow Pointer)
 - [19. Remove nth node from end of list](/src/linkedlist/19.remove-nth-node-from-end-of-list)
 - [61. Rotate list](/src/linkedlist/61.rotate-list)
