@@ -1,3 +1,6 @@
+# Contents
+- [Binary Tree](#binary-tree)
+
 # Binary Tree
 
 ## In-order traversal
