@@ -20,3 +20,13 @@ public void inOrderTraverse(TreeNode root) {
     }
 }
 ```
+
+- Recursion
+```java
+public void inOrderTraverse(TreeNode root, List<TreeNode> list) {
+    if(root == null)
+        return;
+    inOrderTraverse(root.left, list);
+    list.add(root);
+    inOrderTraverse(root.right, list);
+}
