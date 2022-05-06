@@ -1,5 +1,6 @@
 # Contents
 - [Binary Tree](#binary-tree)
+- [List](#list)
 
 # Binary Tree
 
@@ -30,3 +31,17 @@ public void inOrderTraverse(TreeNode root, List<TreeNode> list) {
     list.add(root);
     inOrderTraverse(root.right, list);
 }
+
+# List
+
+## Quick conversion
+
+- List to 1D array
+```java
+list.stream().mapToInt(i -> i).toArray();
+```
+- List of int[] to 2D array
+```java
+list.toArray(new int[list.size()]);
+```
+
